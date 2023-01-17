@@ -18,7 +18,8 @@ const Colors = {
     black7: '#777',
     success: '#41c300',
     danger: 'tomato',
-    warning: '#E91E63'
+    warning: '#E91E63',
+    highlight: '#FFEB3B'
 };
 
 export default Colors;
